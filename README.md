@@ -1,2 +1,2 @@
 # RunLabelRun
-just "label" wich runner
+just "label" wich is runner
