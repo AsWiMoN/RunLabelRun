@@ -1,0 +1,10 @@
+D:\z_tp\C_sharp\RunLabelRun\RunLabelRun\bin\Debug\RunLabelRun.exe.config
+D:\z_tp\C_sharp\RunLabelRun\RunLabelRun\bin\Debug\RunLabelRun.exe
+D:\z_tp\C_sharp\RunLabelRun\RunLabelRun\bin\Debug\RunLabelRun.pdb
+D:\z_tp\C_sharp\RunLabelRun\RunLabelRun\obj\Debug\RunLabelRun.csprojResolveAssemblyReference.cache
+D:\z_tp\C_sharp\RunLabelRun\RunLabelRun\obj\Debug\RunLabelRun.Form1.resources
+D:\z_tp\C_sharp\RunLabelRun\RunLabelRun\obj\Debug\RunLabelRun.Properties.Resources.resources
+D:\z_tp\C_sharp\RunLabelRun\RunLabelRun\obj\Debug\RunLabelRun.csproj.GenerateResource.Cache
+D:\z_tp\C_sharp\RunLabelRun\RunLabelRun\obj\Debug\RunLabelRun.csproj.CoreCompileInputs.cache
+D:\z_tp\C_sharp\RunLabelRun\RunLabelRun\obj\Debug\RunLabelRun.exe
+D:\z_tp\C_sharp\RunLabelRun\RunLabelRun\obj\Debug\RunLabelRun.pdb
